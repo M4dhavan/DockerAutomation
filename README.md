@@ -1,4 +1,4 @@
-# DockerAutomation
+# Docker Automation
 
 This is shell script for Automation of Docker installation in Ubuntu instance
 
